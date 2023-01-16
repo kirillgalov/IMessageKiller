@@ -23,7 +23,7 @@ If you have problem with running second client, you would to try to run second c
 
 ### Way 2
 
-1. download client and server with built-in runtime on releases page
+1. download client and server with built-in runtime on [releases page](https://github.com/kirillgalov/IMessageKiller/releases/tag/Publish)
 2. run with args
 ```bash
 ./IMessageKiller.WebAPI --urls http://*:8080
