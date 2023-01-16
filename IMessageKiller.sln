@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMessageKiller.WebAPI", "IMessageKiller.WebAPI\IMessageKiller.WebAPI.csproj", "{D81DD85B-1B7E-4E22-97BF-655AC9DE9AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMessageKiller.CLI_Client", "IMessageKiller.CLI_Client\IMessageKiller.CLI_Client.csproj", "{50ECAEFC-76AA-42A5-AE3A-E0F9866BF8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMessageKiller.SharedLib", "IMessageKiller.SharedLib\IMessageKiller.SharedLib.csproj", "{8BB6E511-187C-4EE9-9BEB-838F94FD3F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81DD85B-1B7E-4E22-97BF-655AC9DE9AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81DD85B-1B7E-4E22-97BF-655AC9DE9AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81DD85B-1B7E-4E22-97BF-655AC9DE9AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81DD85B-1B7E-4E22-97BF-655AC9DE9AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ECAEFC-76AA-42A5-AE3A-E0F9866BF8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ECAEFC-76AA-42A5-AE3A-E0F9866BF8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ECAEFC-76AA-42A5-AE3A-E0F9866BF8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ECAEFC-76AA-42A5-AE3A-E0F9866BF8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB6E511-187C-4EE9-9BEB-838F94FD3F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB6E511-187C-4EE9-9BEB-838F94FD3F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB6E511-187C-4EE9-9BEB-838F94FD3F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB6E511-187C-4EE9-9BEB-838F94FD3F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
